@@ -6,7 +6,7 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
-## Table of Contents:
+# Table of Contents:
 
 - [C#](#c)
 - [C/C++](#cc)
@@ -32,7 +32,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
-## C/C++:
+# C/C++:
 
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
